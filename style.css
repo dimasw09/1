@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #86f55c;
+}
+
+#project {
+  background-color: #86f55c;
+}
+footer {
+  background-color: #0aad17;
+}
+.ft {
+  text-align: center;
+  color: aliceblue;
+  font-weight: bold;
+}
+section {
+  scroll-margin-top: 90px;
+}
